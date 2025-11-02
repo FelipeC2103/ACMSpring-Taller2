@@ -1,8 +1,8 @@
 # ACMSpring-Taller2
 
-Felipe Cardenas Cristancho 
-Noé Arcos
-Carlos Niño 
+- Felipe Cardenas Cristancho 
+- Noé Arcos
+- Carlos Niño 
 
 **Punto 1**
 
