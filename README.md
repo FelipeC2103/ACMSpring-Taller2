@@ -11,4 +11,5 @@ Probar con http://localhost:8080/api/weather?city="nombreCiudad" (reemplazar "no
 **Punto 2**
 
 Probar con http://localhost:8080/pokemon/"NombreDelPokemon" (Reemplazar "NombreDelPokemon" con el pokemon deseado, ejemplo: http://localhost:8080/pokemon/pikachu)
+
 (Reto) Probar con http://localhost:8080/pokemon/custom/"NombreDelPokemon" (Reemplazar "NombreDelPokemon" con el pokemon deseado, ejemplo: http://localhost:8080/pokemon/custom/pikachu)
